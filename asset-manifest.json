@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Reactwebsite/static/css/main.12d97321.chunk.css",
+    "main.js": "/Reactwebsite/static/js/main.85fd90bb.chunk.js",
+    "main.js.map": "/Reactwebsite/static/js/main.85fd90bb.chunk.js.map",
+    "runtime-main.js": "/Reactwebsite/static/js/runtime-main.f1950491.js",
+    "runtime-main.js.map": "/Reactwebsite/static/js/runtime-main.f1950491.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/Reactwebsite/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.d910f22a.chunk.js": "/Reactwebsite/static/js/2.d910f22a.chunk.js",
+    "static/js/2.d910f22a.chunk.js.map": "/Reactwebsite/static/js/2.d910f22a.chunk.js.map",
+    "index.html": "/Reactwebsite/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/Reactwebsite/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.12d97321.chunk.css.map": "/Reactwebsite/static/css/main.12d97321.chunk.css.map",
+    "static/js/2.d910f22a.chunk.js.LICENSE.txt": "/Reactwebsite/static/js/2.d910f22a.chunk.js.LICENSE.txt",
+    "static/media/about.6684528f.png": "/Reactwebsite/static/media/about.6684528f.png",
+    "static/media/android.52a3dbc7.jpg": "/Reactwebsite/static/media/android.52a3dbc7.jpg",
+    "static/media/app.53acee34.jpg": "/Reactwebsite/static/media/app.53acee34.jpg",
+    "static/media/desiging8.5ba614df.jpg": "/Reactwebsite/static/media/desiging8.5ba614df.jpg",
+    "static/media/digital.01b18929.jpg": "/Reactwebsite/static/media/digital.01b18929.jpg",
+    "static/media/web.9e05a9f2.jpg": "/Reactwebsite/static/media/web.9e05a9f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1950491.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.d910f22a.chunk.js",
+    "static/css/main.12d97321.chunk.css",
+    "static/js/main.85fd90bb.chunk.js"
+  ]
+}
